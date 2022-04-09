@@ -1,0 +1,16 @@
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.exe
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.deps.json
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.runtimeconfig.json
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.runtimeconfig.dev.json
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.dll
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ref\ConsoleApptask.dll
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\bin\Debug\net5.0\ConsoleApptask.pdb
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.csprojAssemblyReference.cache
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.AssemblyInfoInputs.cache
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.AssemblyInfo.cs
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.csproj.CoreCompileInputs.cache
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.dll
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ref\ConsoleApptask.dll
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.pdb
+C:\Users\saltu\source\repos\ConsoleApptask\ConsoleApptask\obj\Debug\net5.0\ConsoleApptask.genruntimeconfig.cache
