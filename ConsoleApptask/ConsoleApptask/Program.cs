@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -17,12 +18,16 @@ public static class Program
     }
     private static void Input()
     {
+        Console.WriteLine("Please enter your input text file path for ex C:/input.txt");
+        String a = Console.ReadLine();
+        string s = File.ReadAllText(a);
+
         var triangleInput = @"1
 							 8 4
 							 2 6 9
 							8 5 9 3";
 
-        var splittedInput = ConvertToStringArray(triangleInput);
+        var splittedInput = ConvertToStringArray(s);
         var TwoDimensionalArray = Build2DArray(splittedInput);
         var NonPrimeNumbersArray = ReplacePrimeNumbersToZero(TwoDimensionalArray);
         var MaxSum = TraversingArrayForMaximum(TwoDimensionalArray);
@@ -44,6 +49,8 @@ public static class Program
 
     private static string Input2()
     {
+
+
         const string triangleInput = @"215
 							193 124
 		  				  117 237 442
